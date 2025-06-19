@@ -113,3 +113,5 @@ def predict_linear(input_data: ImovelInput):
 @app.get("/")
 def home():
     return {"mensagem": "API de Previsão de Imóveis está online. Acesse /docs para usar."}
+
+#teste
